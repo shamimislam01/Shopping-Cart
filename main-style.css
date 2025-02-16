@@ -371,7 +371,7 @@ nav.menu1.mobile_menu {
     padding: 10px !important;
     display: none;
 }
-.left-menu {
+.mobile_navbar-section .left-menu {
     position: fixed;
     left: -129%;
     transition: .5s ease-in-out;
