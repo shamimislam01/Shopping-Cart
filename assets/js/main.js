@@ -174,17 +174,26 @@ Total_amount();
 
 
 // Cart Button js
-
-
 function cart_page(){
     let cart_page =document.getElementById('cart_page')
     cart_page.classList.add("active_cart")
-    
 }
 
 // Cart Button close tag
-
 function cart_close(){
     let cart_page =document.getElementById('cart_page')
     cart_page.classList.remove("active_cart")
+}
+
+
+// Mobile Button js
+function mobile_menu(){
+    let mobile_page =document.getElementById('mobile_menu_section')
+    mobile_page.classList.add("mobile_menu_cart")
+}
+
+// Mobile Button close tag
+function mobile_menu_close(){
+    let mobile_page =document.getElementById('mobile_menu_section')
+    mobile_page.classList.remove("mobile_menu_cart")
 }

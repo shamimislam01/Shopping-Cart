@@ -359,6 +359,47 @@ nav.menu {
     justify-content:inherit; 
 
 }
+/* Mobile menu */
+nav.menu1.mobile_menu {
+    display: flex;
+    background: #ffffff;
+    width: 324px;
+    /* overflow-x: auto; */
+}
+.mobile_navbar-section {
+    background-color: #f3f3f3;
+    padding: 10px !important;
+    display: none;
+}
+.left-menu {
+    position: fixed;
+    left: -129%;
+    transition: .5s ease-in-out;
+    overflow-x: scroll;
+    top: 0;
+}
+.left-menu.mobile_menu_cart{
+    left:0;
+    transition: .5s ease-in-out;
+}
+.close_tag a i {
+    font-size:20px;
+}
+.close_tag {
+    position: absolute;
+    top: 0;
+    left: 82px;
+    padding: 10px;
+}
+.mobile_navbar-section .left-menu .menu1 ul {
+    list-style: none;
+    display: grid;
+    margin-top: 46px;
+}
+.open_tag a {
+    font-size: 42px;
+    color: #fc8934;
+}
 
 /* shop style */
 .shop-section {

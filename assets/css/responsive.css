@@ -56,7 +56,7 @@ Tablet Screen : 768
         transition: .5s ease-in-out;
     }
 
-    .left-menu {
+    .shop-section .left-menu {
         display: none;
     }
 
@@ -69,10 +69,13 @@ Tablet Screen : 768
         margin: 10px;
     }
 
+    .navbar-section {
+        display: none;
+    }
 
-
-
-
+    .mobile_navbar-section {
+        display: inherit;
+    }
 
 
 }
@@ -84,9 +87,7 @@ Small Mobile : 320
 
 @media (max-width: 767px) {
 
-.left-menu {
-        display: none;
-}
+
 .shop-section {
     padding: 90px 0px;
 }
@@ -106,7 +107,22 @@ Small Mobile : 320
     margin-bottom: 40px;
 }
 
+.navbar-section {
+    display: none;
+}
+.logo-img {
+    /* display: none; */
+    position: absolute;
+    top: 32%;
+    left: 74%;
+}
+.shop-section .left-menu {
+    display: none;
+}
 
+.mobile_navbar-section {
+    display: inherit;
+}
 
 
 
