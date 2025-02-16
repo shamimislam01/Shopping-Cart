@@ -1,0 +1,135 @@
+/* -------------------------------------------------
+ Desktop :1365
+---------------------------------------------------*/
+
+@media (min-width: 1200px) and (max-width: 1440px) {
+	
+    .shop .shop_item {
+        margin: 10px;
+    }
+	.shop-section {
+        padding: 90px 34px;
+    }
+    .active_cart .cart_content_box {
+        left: 70%;
+        transition: .5s ease-in-out;
+    }
+	
+}	
+	
+/* -------------------------------------------------
+ Desktop :992
+---------------------------------------------------*/
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .shop-section {
+        padding: 90px 10px;
+    }
+
+    .active_cart .cart_content_box {
+        left: 58%;
+        transition: .5s ease-in-out;
+    }
+
+    .shop-section .col-lg-3 {
+        flex: 0 0 auto;
+        width: 33% !important;
+    }
+
+    .left-menu .menu1 ul {
+        padding: 0px;
+    }
+    .shop .shop_item {
+        margin: 12px;
+        padding: 0;
+    }
+
+}
+/* -------------------------------------------------
+Tablet Screen : 768
+---------------------------------------------------*/
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+    .active_cart .cart_content_box {
+        left: 44%;
+        transition: .5s ease-in-out;
+    }
+
+    .left-menu {
+        display: none;
+    }
+
+
+    .shop-section {
+        padding: 90px 20px;
+    }
+
+    .shop .shop_item {
+        margin: 10px;
+    }
+
+
+
+
+
+
+
+}
+
+
+/* -------------------------------------------------
+Small Mobile : 320
+---------------------------------------------------*/
+
+@media (max-width: 767px) {
+
+.left-menu {
+        display: none;
+}
+.shop-section {
+    padding: 90px 0px;
+}
+.active_cart .cart_content_box {
+    left: -20%;
+}
+.cart_content_box .cart_item {
+    display: inherit;
+    text-align: center;
+}
+.cart_item_img {
+    margin-bottom: 20px;
+}
+.cart_page a {
+    text-align: center;
+    display: block;
+    margin-bottom: 40px;
+}
+
+
+
+
+
+}
+/* -------------------------------------------------
+Large Mobile :480px. 
+---------------------------------------------------*/
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

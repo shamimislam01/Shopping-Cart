@@ -1,0 +1,68 @@
+[
+    {
+    "id": 1,
+    "name": "ক্রিস্টাল হানি/Crystal Honey 1kg",
+    "price": 1000.00,
+    "desc": "men's clothing",
+    "img": "https://ghorerbazar.com/cdn/shop/files/WhatsAppImage2025-01-12at6.51.00PM.jpg?v=1736686474&width=360"
+    
+    }, 
+    {
+        "id": 2,
+        "name": "Crystal Honey - ক্রিস্টাল হানি (২ কেজি) ",
+        "price": 1950.00,
+        "desc": "men's clothing",
+        "img": "https://ghorerbazar.com/cdn/shop/files/WhatsAppImage2025-01-12at6.50.59PM_1.jpg?v=1736686558&width=360"
+        
+    
+    }, 
+    {
+        "id": 3,
+        "name": "Crystal Honey - ক্রিস্টাল হানি (৩ কেজি)",
+        "price": 2950.00,
+        "desc": "Crystal Honey - ক্রিস্টাল হানি (৩ কেজি",
+        "img": "https://ghorerbazar.com/cdn/shop/files/WhatsAppImage2025-01-12at6.50.59PM.jpg?v=1736690220&width=360"
+    
+    }, 
+    {
+        "id": 4,
+        "name": "Natural Wild Honeycomb-1300 gm",
+        "price": 15.99,
+        "desc": "men's clothing",
+        "img": "https://ghorerbazar.com/cdn/shop/files/3one.jpg?v=1727514082&width=360"
+        
+    },
+    {
+        "id": 5,
+        "name": "সুন্দরবনের মধু/Sundarban Honey 1kg ",
+        "price": 168,
+        "desc": "jewelery",
+        "img": "https://ghorerbazar.com/cdn/shop/files/sundar-ban-honey-1kg.jpg?v=1717506021&width=360"
+    },
+
+    {
+        "id": 6,
+        "name": "Black Seed Honey / কালোজিরা মধু (১)",
+        "price": 168,
+        "desc": "jewelery",
+        "img": "https://ghorerbazar.com/cdn/shop/files/kalojira-Honey.png?v=1725951886&width=360"
+        
+    },
+    {
+        "id": 7,
+        "name": "Kashmiri Sidr Honey 800g",
+        "price": 9.99,
+        "desc": "jewelery",
+        "img": "https://ghorerbazar.com/cdn/shop/files/sidol-honey-03.jpg?v=1731588878&width=360"
+    
+    },
+    {
+        "id": 8,
+        "name": "Kashmiri Sidr Honey 800g",
+        "price": 10.99,
+        "desc": "jewelery",
+        "img": "https://ghorerbazar.com/cdn/shop/files/kalojira-honey-500.png?v=1725952540&width=360"
+    
+    }
+]
+
